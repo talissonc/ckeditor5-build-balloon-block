@@ -98,7 +98,7 @@ BalloonEditor.defaultConfig = {
 	toolbar: {
 		items: [
 			'bold',
-			'italic',
+			'italic'
 		]
 	},
 	image: {
